@@ -43,9 +43,27 @@ root.render(parent);
 // const heading = React.createElement("h1", { id: "heading" }, "Namastey React");
 
 // jsx heading
-const heading = <h1 id="heading">Namastey React</h1>;
+const Title = () => (
+  <h1 className="heading" tabIndex="5">
+    Namastey React Using JSX
+  </h1>
+);
+
+// React Functional Component & Component Composition
+const HeadingComponent = () => {
+  return (
+    <div className="container">
+      {Title()}
+      <Title />
+      <h1 className="heading">Namastey React Functional Components</h1>;
+    </div>
+  );
+};
 
 // Convert to html element
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(heading);
+// root.render(heading);
+
+// Rendering a component
+root.render(<HeadingComponent />);

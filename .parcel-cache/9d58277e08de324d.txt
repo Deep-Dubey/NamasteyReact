@@ -16,7 +16,7 @@
 48D:\namastereact\node_modules\has-flag\index.d.ts133629130160380580 0
 28D:\namastereact\package.json133629198560948209 0
 57D:\namastereact\node_modules\type-fest\source\except.d.ts133629130207341706 0
-22D:\namastereact\App.js133629212201721166 0
+22D:\namastereact\App.js133629234772613009 0
 75D:\namastereact\node_modules\css-select\lib\esm\pseudo-selectors\index.d.ts133629130236710573 0
 57D:\namastereact\node_modules\postcss-value-parser\LICENSE133629130153177486 0
 41D:\namastereact\node_modules\import-fresh133629130184200809 1
@@ -53,7 +53,7 @@
 37D:\namastereact\node_modules\escalade133629130194276519 1
 67D:\namastereact\node_modules\svgo\plugins\convertEllipseToCircle.js133629130231947334 0
 60D:\namastereact\node_modules\caniuse-lite\data\regions\ZA.js133629130391368639 0
-43D:\namastereact\dist\index.e6b5c606.css.map133629212206897300 0
+43D:\namastereact\dist\index.e6b5c606.css.map133629234780147086 0
 35D:\namastereact\node_modules\braces133629130201611318 1
 60D:\namastereact\node_modules\css-tree\lib\tokenizer\types.js133629130270551257 0
 42D:\namastereact\node_modules\timsort\build133629130193135413 1
@@ -74,7 +74,7 @@
 92D:\namastereact\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133629130234267175 0
 60D:\namastereact\node_modules\weak-lru-cache\rollup.config.js133629130187430804 0
 72D:\namastereact\node_modules\caniuse-lite\data\features\web-animation.js133629130390197638 0
-20D:\namastereact\dist133629212208001578 1
+20D:\namastereact\dist133629234780774869 1
 65D:\namastereact\node_modules\caniuse-lite\data\features\tls1-2.js133629130387752969 0
 57D:\namastereact\node_modules\@parcel\events\src\errors.js133629130190187772 0
 38D:\namastereact\node_modules\is-number133629130178769953 1
@@ -115,7 +115,7 @@
 51D:\namastereact\node_modules\color-convert\index.js133629130181122310 0
 64D:\namastereact\node_modules\css-tree\lib\lexer\generic-const.js133629130259574302 0
 67D:\namastereact\node_modules\@swc\helpers\cjs\_class_call_check.cjs133629130213414138 0
-25D:\namastereact\README.md133629213564636002 0
+25D:\namastereact\README.md133629236916062665 0
 76D:\namastereact\node_modules\caniuse-lite\data\features\input-file-accept.js133629130350241002 0
 37D:\namastereact\node_modules\css-tree133629130271436066 1
 76D:\namastereact\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133629130353832348 0
@@ -851,7 +851,7 @@
 60D:\namastereact\node_modules\caniuse-lite\data\regions\AD.js133629130193840026 0
 79D:\namastereact\node_modules\caniuse-lite\data\features\css-media-resolution.js133629130260922083 0
 52D:\namastereact\node_modules\react-error-overlay\lib133629130161491158 1
-39D:\namastereact\dist\index.e6b5c606.css133629212206842557 0
+39D:\namastereact\dist\index.e6b5c606.css133629234780121205 0
 59D:\namastereact\node_modules\type-fest\ts41\kebab-case.d.ts133629130213945278 0
 46D:\namastereact\node_modules\timsort\README.md133629130175679390 0
 123D:\namastereact\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json133629130259529332 0
@@ -5977,7 +5977,7 @@
 42D:\namastereact\node_modules\.bin\svgo.ps1133629130393725537 0
 60D:\namastereact\node_modules\.bin\update-browserslist-db.ps1133629130393834017 0
 42D:\namastereact\dist\index.6bd02f5a.js.map133629177480969431 0
-38D:\namastereact\dist\index.7826abd7.js133629212207906454 0
-42D:\namastereact\dist\index.7826abd7.js.map133629212207991556 0
-31D:\namastereact\dist\index.html133629212207791555 0
+38D:\namastereact\dist\index.7826abd7.js133629234780692728 0
+42D:\namastereact\dist\index.7826abd7.js.map133629234780764912 0
+31D:\namastereact\dist\index.html133629234780682741 0
 45D:\namastereact\dist\namastereact.3464ddca.js133629177433391495 0
