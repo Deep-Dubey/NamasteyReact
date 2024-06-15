@@ -18,3 +18,7 @@
     #   "last 2 Edge versions",
 ]
 # We can give any version number
+# JSX is behind the sean converted to react element
+# React.createElement is used to create react element
+# React.createElement => ReactElement(JS Object) => HTMLElement(render)
+# JSX = > React.createElement => ReactElement(JS Object) => HTMLElement(render)
