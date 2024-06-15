@@ -7,3 +7,4 @@
 # (^)carret:- minor update.
 # (~)tilde:- patch update.
 # Create git ignore file and put node modules because we don't need node_modules in out production
+# To run parcel we will do (npx parcelindex.html)
