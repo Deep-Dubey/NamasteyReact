@@ -1,5 +1,7 @@
-/*
+import React from "react";
+import ReactDOM from "react-dom/client";
 
+/*
 <div id="parent">
     <div id="child">
         <h1>I'am h1 tag</h1>
@@ -12,7 +14,6 @@
         <h2>I'm h2 tag</h2>
     </div>
 </div>
-
 */
 
 const parent = React.createElement("div", { id: "parent" }, [
@@ -31,6 +32,8 @@ const heading = React.createElement(
   {},
   "Hello World Using React Stratch"
 );
+
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(parent);
