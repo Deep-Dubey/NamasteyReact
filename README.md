@@ -85,3 +85,7 @@
     //   );
     // };
     // root.render(heading);
+# in useState we can pass array list from anothe location
+    # import {resList} from "./utils/resList";
+    # const [items,setItems] = useState(resList);
+    #Like this we can pass arrays inside useState
